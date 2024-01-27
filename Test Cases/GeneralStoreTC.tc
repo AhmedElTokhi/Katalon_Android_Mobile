@@ -33,13 +33,13 @@
       <testDataId>Data Files/3-InternalTestData</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>09d0a5d9-372c-4447-bde7-9bfba3706fb5</testDataLinkId>
+      <testDataLinkId>c570e7be-225b-4b28-8591-76785d878e83</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>Name</value>
       <variableId>cf6049a8-88ec-427f-bd46-e4883bb20ee9</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'Test'</defaultValue>
       <description></description>
       <id>cf6049a8-88ec-427f-bd46-e4883bb20ee9</id>
       <masked>false</masked>
