@@ -1,4 +1,5 @@
-Task:
+**Task:**
+
 1- Open the General Store app on an Android device (real or emulator).
 
 2- Select Andorra country from the dropdown list.
