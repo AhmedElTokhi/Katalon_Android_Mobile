@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GeneralStoreTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>caa41ec0-d4e8-47e4-981a-fa4055ec820f</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3f890c6b-9caf-49a1-a38b-f8781e6891be</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/1-ExcelTestData</testDataId>
+   </testDataLinks>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>09d0a5d9-372c-4447-bde7-9bfba3706fb5</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/2-CSVTestData</testDataId>
+   </testDataLinks>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c570e7be-225b-4b28-8591-76785d878e83</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/3-InternalTestData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>09d0a5d9-372c-4447-bde7-9bfba3706fb5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Name</value>
+      <variableId>cf6049a8-88ec-427f-bd46-e4883bb20ee9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cf6049a8-88ec-427f-bd46-e4883bb20ee9</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+</TestCaseEntity>
